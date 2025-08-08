@@ -1,12 +1,12 @@
 <a id="top"></a>
-# <img src="Fernanda/resources/icons/Fernanda.ico" alt="Colorful conch shell icon." width="26px"/> Fernanda
+# <img src="Fernanda/resources/icons/Fernanda.ico" alt="Colorful conch shell icon." width="26px"/> Fernanda (Legacy)
 
 > [!WARNING]  
-> **I wanted to quickly offer a small note on the status of this project:** it is still ongoing, but progress is slow due to various factors, not the least of which is time, split between: this passion project (which I deeply want to make good and usable); actually writing (my trained profession); learning all I can about C++ and Qt (which is, in many ways, much more fun than writing, so I often get side-tracked with other toy projects or exercises); and trying to make a general living.
+> **This repository is the old, legacy version of Fernanda (v0.27.1-beta60).** 
 > 
-> **To be very clear**, the project as it is (and all its releases) is not up to my, or probably anyone's, standard, and you shouldn't use it for serious writing right now! You should save your hard work in something more suitable and stable at this moment. Luckily, on the *really off-chance* someone has stored any vital writing in this version of Fernanda, all your plain text files are accessible by opening the `.story` file with [7zip](https://www.7-zip.org/).
+> **→ For the new version, please visit: [github.com/fairybow/Fernanda](https://github.com/fairybow/Fernanda)**
 > 
-> Lastly, a rewrite is still in progress, but even the development repo is out-of-date with current development (I have a terrible habit of just starting entirely fresh, over and over again). The plan for Fernanda is to provide a two-environment-experience: Notepad and Notebooks. A Notepad will function as expected. A Notebook will function much like the current version (a view onto a collection of files). I'm thinking quite hard about whether I want the Notebook to operate on an archive or a folder (like [Obsidian](https://obsidian.md/), which I haven't yet used much, but seems *really* cool). Still, planned for that next release is a number of improvements, not the least of which would be tabs.
+> The rewrite is under active development but still at an early stage. This legacy version will remain, for now, for posterity. (`.story` files can always be opened with [7zip](https://www.7-zip.org/).)
 
 <p align="center">
 	<img src="./Fernanda/docs/screens/main_screen_2_alt.png" alt="PNG of 'Fernanda v0.26.1-beta57'"/>
